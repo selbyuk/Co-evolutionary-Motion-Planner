@@ -1,15 +1,16 @@
-# Co-evolutionary Motion Planner for Autonomous Mining Trucks – Evaluation Videos
+# Cooperating Mining Truck Fleets in Unstructured Mining Areas: A Co-evolutionary Motion Planner – Evaluation Videos
 
 This repository provides **evaluation videos** for the paper:
 
 > **“Cooperating Mining Truck Fleets in Unstructured Mining Areas: A Co-evolutionary Motion Planner”**  
-> Wenze Luo, Haobo Zhang, Zhen Zhang, Jintao Lai, Linbo Li, Tongji University.
+> Wenze Luo, Zhen Zhang, Jintao Lai, Linbo Li, Tongji University.
+
+https://github.com/user-attachments/assets/08b758e6-502b-4dbd-b02c-d015b68c097e
 
 The proposed **Co-evolutionary Motion Planner** integrates **Cooperative Mission Planning (CMP)** and **Cooperative Trajectory Planning (CTP)** in a unified multi-agent reinforcement learning framework. It aims to:
 - Improve fleet-level operational efficiency;
 - Better balance the interests of multiple Autonomous Mining Trucks (AMTs);
 - Enhance robustness under diverse unstructured mining layouts.
-https://github.com/user-attachments/assets/08b758e6-502b-4dbd-b02c-d015b68c097e
 
 ---
 
@@ -52,7 +53,7 @@ Each video corresponds to one or more experimental settings described in the pap
 
 If you find the videos or the underlying method useful in your research, please cite:
 
-> W. Luo, H. Zhang, Z. Zhang, J. Lai, and L. Li,  
+> W. Luo, Z. Zhang, J. Lai, and L. Li,  
 > **“Cooperating Mining Truck Fleets in Unstructured Mining Areas: A Co-evolutionary Motion Planner.”**
 
 A sample BibTeX entry (update the venue and year when the paper is officially published):
