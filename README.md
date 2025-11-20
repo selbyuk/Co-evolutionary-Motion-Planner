@@ -11,7 +11,7 @@ The proposed **Co-evolutionary Motion Planner** integrates **Cooperative Mission
 - Improve fleet-level operational efficiency;
 - Better balance the interests of multiple Autonomous Mining Trucks (AMTs);
 - Enhance robustness under diverse unstructured mining layouts.
-<img src="framework.svg" width="500">
+<img src="framework.svg" width="700">
 
 ## Contents
 
