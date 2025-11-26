@@ -59,7 +59,7 @@ A sample BibTeX entry (update the venue and year when the paper is officially pu
 
 ```bibtex
 @article{luo2025coevomt,
-  author  = {Wenze Luo and Haobo Zhang and Zhen Zhang and Jintao Lai and Linbo Li},
+  author  = {Wenze Luo and Zhen Zhang and Jintao Lai and Linbo Li},
   title   = {Cooperating Mining Truck Fleets in Unstructured Mining Areas: A Co-evolutionary Motion Planner},
   journal = {to appear},
   year    = {2025}
